@@ -1,0 +1,528 @@
+Barrio;Año;Trimestre;Valor;Ambientes;Estado
+Almagro;2018;1;;3;Nuevo
+Balvanera;2018;1;;3;Nuevo
+Belgrano;2018;1;4381.01;3;Nuevo
+Caballito;2018;1;3339.06;3;Nuevo
+Colegiales;2018;1;;3;Nuevo
+Flores;2018;1;2712.15;3;Nuevo
+Liniers;2018;1;2730.81;3;Nuevo
+Mataderos;2018;1;;3;Nuevo
+Núñez;2018;1;;3;Nuevo
+Palermo;2018;1;4235.44;3;Nuevo
+Recoleta;2018;1;4565.89;3;Nuevo
+Saavedra;2018;1;;3;Nuevo
+Villa Crespo;2018;1;3226.47;3;Nuevo
+Villa del Parque;2018;1;;3;Nuevo
+Villa Devoto;2018;1;;3;Nuevo
+Villa Luro;2018;1;;3;Nuevo
+Villa Urquiza;2018;1;3358.65;3;Nuevo
+Almagro;2018;2;3093.86;3;Nuevo
+Balvanera;2018;2;2336.21;3;Nuevo
+Belgrano;2018;2;4618.21;3;Nuevo
+Caballito;2018;2;3321.26;3;Nuevo
+Colegiales;2018;2;;3;Nuevo
+Flores;2018;2;2821.55;3;Nuevo
+Liniers;2018;2;2702.25;3;Nuevo
+Mataderos;2018;2;;3;Nuevo
+Núñez;2018;2;;3;Nuevo
+Palermo;2018;2;4266.93;3;Nuevo
+Recoleta;2018;2;4710.3;3;Nuevo
+Saavedra;2018;2;2964.66;3;Nuevo
+Villa Crespo;2018;2;3314.71;3;Nuevo
+Villa del Parque;2018;2;;3;Nuevo
+Villa Devoto;2018;2;;3;Nuevo
+Villa Luro;2018;2;;3;Nuevo
+Villa Urquiza;2018;2;3389.89;3;Nuevo
+Almagro;2018;3;3075.53;3;Nuevo
+Balvanera;2018;3;;3;Nuevo
+Belgrano;2018;3;4421.09;3;Nuevo
+Caballito;2018;3;3377.91;3;Nuevo
+Colegiales;2018;3;3843.35;3;Nuevo
+Flores;2018;3;2943.17;3;Nuevo
+Liniers;2018;3;2798.28;3;Nuevo
+Mataderos;2018;3;;3;Nuevo
+Núñez;2018;3;3877.95;3;Nuevo
+Palermo;2018;3;4293.98;3;Nuevo
+Recoleta;2018;3;4784.93;3;Nuevo
+Saavedra;2018;3;2919.32;3;Nuevo
+Villa Crespo;2018;3;3331.53;3;Nuevo
+Villa del Parque;2018;3;;3;Nuevo
+Villa Devoto;2018;3;;3;Nuevo
+Villa Luro;2018;3;;3;Nuevo
+Villa Urquiza;2018;3;3455.45;3;Nuevo
+Almagro;2018;4;3098.11;3;Nuevo
+Balvanera;2018;4;;3;Nuevo
+Belgrano;2018;4;4657.54;3;Nuevo
+Caballito;2018;4;3402.23;3;Nuevo
+Colegiales;2018;4;;3;Nuevo
+Flores;2018;4;2841.52;3;Nuevo
+Liniers;2018;4;2772.19;3;Nuevo
+Mataderos;2018;4;2783.25;3;Nuevo
+Núñez;2018;4;4076.24;3;Nuevo
+Palermo;2018;4;4248.61;3;Nuevo
+Recoleta;2018;4;4505;3;Nuevo
+Saavedra;2018;4;2962.77;3;Nuevo
+Villa Crespo;2018;4;3281.3;3;Nuevo
+Villa del Parque;2018;4;3035.41;3;Nuevo
+Villa Devoto;2018;4;;3;Nuevo
+Villa Luro;2018;4;;3;Nuevo
+Villa Urquiza;2018;4;3423.34;3;Nuevo
+Almagro;2019;1;2974.31;3;Nuevo
+Balvanera;2019;1;2543.97;3;Nuevo
+Belgrano;2019;1;4338.52;3;Nuevo
+Caballito;2019;1;3403.96;3;Nuevo
+Colegiales;2019;1;3775.82;3;Nuevo
+Flores;2019;1;2871.55;3;Nuevo
+Liniers;2019;1;2829.56;3;Nuevo
+Mataderos;2019;1;2770.99;3;Nuevo
+Núñez;2019;1;;3;Nuevo
+Palermo;2019;1;4323.58;3;Nuevo
+Recoleta;2019;1;4079.19;3;Nuevo
+Saavedra;2019;1;3093.84;3;Nuevo
+Villa Crespo;2019;1;3135.04;3;Nuevo
+Villa del Parque;2019;1;;3;Nuevo
+Villa Devoto;2019;1;;3;Nuevo
+Villa Luro;2019;1;;3;Nuevo
+Villa Urquiza;2019;1;3425.65;3;Nuevo
+Almagro;2019;2;3116.95;3;Nuevo
+Balvanera;2019;2;;3;Nuevo
+Belgrano;2019;2;4111.27;3;Nuevo
+Caballito;2019;2;3352.11;3;Nuevo
+Colegiales;2019;2;3748.78;3;Nuevo
+Flores;2019;2;2829.06;3;Nuevo
+Liniers;2019;2;2808.22;3;Nuevo
+Mataderos;2019;2;2755.84;3;Nuevo
+Núñez;2019;2;3833.48;3;Nuevo
+Palermo;2019;2;4408.14;3;Nuevo
+Recoleta;2019;2;3974.54;3;Nuevo
+Saavedra;2019;2;;3;Nuevo
+Villa Crespo;2019;2;3275.25;3;Nuevo
+Villa del Parque;2019;2;;3;Nuevo
+Villa Devoto;2019;2;;3;Nuevo
+Villa Luro;2019;2;;3;Nuevo
+Villa Urquiza;2019;2;3487.89;3;Nuevo
+Almagro;2019;3;3067.79;3;Nuevo
+Balvanera;2019;3;2567.69;3;Nuevo
+Belgrano;2019;3;4185.65;3;Nuevo
+Caballito;2019;3;3299.58;3;Nuevo
+Colegiales;2019;3;3862.24;3;Nuevo
+Flores;2019;3;2844.13;3;Nuevo
+Liniers;2019;3;2974.58;3;Nuevo
+Mataderos;2019;3;2700.12;3;Nuevo
+Núñez;2019;3;4053.26;3;Nuevo
+Palermo;2019;3;4242.16;3;Nuevo
+Recoleta;2019;3;3928.04;3;Nuevo
+Saavedra;2019;3;3212.61;3;Nuevo
+Villa Crespo;2019;3;3199.6;3;Nuevo
+Villa del Parque;2019;3;;3;Nuevo
+Villa Devoto;2019;3;;3;Nuevo
+Villa Luro;2019;3;;3;Nuevo
+Villa Urquiza;2019;3;3431.39;3;Nuevo
+Almagro;2019;4;2938.66;3;Nuevo
+Balvanera;2019;4;2612.25;3;Nuevo
+Belgrano;2019;4;4315.39;3;Nuevo
+Caballito;2019;4;3385.09;3;Nuevo
+Colegiales;2019;4;3758.38;3;Nuevo
+Flores;2019;4;2872.55;3;Nuevo
+Liniers;2019;4;2903.64;3;Nuevo
+Mataderos;2019;4;2684;3;Nuevo
+Núñez;2019;4;3908.91;3;Nuevo
+Palermo;2019;4;4142.03;3;Nuevo
+Recoleta;2019;4;3877.27;3;Nuevo
+Saavedra;2019;4;3162.55;3;Nuevo
+Villa Crespo;2019;4;3049.17;3;Nuevo
+Villa del Parque;2019;4;;3;Nuevo
+Villa Devoto;2019;4;;3;Nuevo
+Villa Luro;2019;4;2835.7;3;Nuevo
+Villa Urquiza;2019;4;3537.59;3;Nuevo
+Almagro;2020;1;2973.91;3;Nuevo
+Balvanera;2020;1;2561.12;3;Nuevo
+Belgrano;2020;1;4026.18;3;Nuevo
+Caballito;2020;1;3321.96;3;Nuevo
+Colegiales;2020;1;3706.98;3;Nuevo
+Flores;2020;1;2951.01;3;Nuevo
+Liniers;2020;1;;3;Nuevo
+Mataderos;2020;1;2716.75;3;Nuevo
+Núñez;2020;1;3936.16;3;Nuevo
+Palermo;2020;1;4020.56;3;Nuevo
+Recoleta;2020;1;3468.4;3;Nuevo
+Saavedra;2020;1;3158.6;3;Nuevo
+Villa Crespo;2020;1;3127.97;3;Nuevo
+Villa del Parque;2020;1;;3;Nuevo
+Villa Devoto;2020;1;;3;Nuevo
+Villa Luro;2020;1;2783.21;3;Nuevo
+Villa Urquiza;2020;1;3333.62;3;Nuevo
+Almagro;2020;2;2985.88;3;Nuevo
+Balvanera;2020;2;;3;Nuevo
+Belgrano;2020;2;3674.84;3;Nuevo
+Caballito;2020;2;3141.12;3;Nuevo
+Colegiales;2020;2;3444.26;3;Nuevo
+Flores;2020;2;2939.83;3;Nuevo
+Liniers;2020;2;2915.08;3;Nuevo
+Mataderos;2020;2;2786.41;3;Nuevo
+Núñez;2020;2;3566.08;3;Nuevo
+Palermo;2020;2;3936.24;3;Nuevo
+Recoleta;2020;2;3327.77;3;Nuevo
+Saavedra;2020;2;3043.69;3;Nuevo
+Villa Crespo;2020;2;3102.4;3;Nuevo
+Villa del Parque;2020;2;;3;Nuevo
+Villa Devoto;2020;2;;3;Nuevo
+Villa Luro;2020;2;2708.4;3;Nuevo
+Villa Urquiza;2020;2;3207.59;3;Nuevo
+Almagro;2020;3;2828.17;3;Nuevo
+Balvanera;2020;3;2535.76;3;Nuevo
+Belgrano;2020;3;3601.25;3;Nuevo
+Caballito;2020;3;3133.1;3;Nuevo
+Colegiales;2020;3;;3;Nuevo
+Flores;2020;3;2817.35;3;Nuevo
+Liniers;2020;3;2865.55;3;Nuevo
+Mataderos;2020;3;;3;Nuevo
+Núñez;2020;3;3696.13;3;Nuevo
+Palermo;2020;3;3925.32;3;Nuevo
+Recoleta;2020;3;3304.91;3;Nuevo
+Saavedra;2020;3;2991.89;3;Nuevo
+Villa Crespo;2020;3;2886.35;3;Nuevo
+Villa del Parque;2020;3;2885;3;Nuevo
+Villa Devoto;2020;3;2963.39;3;Nuevo
+Villa Luro;2020;3;2726.6;3;Nuevo
+Villa Urquiza;2020;3;3307.48;3;Nuevo
+Almagro;2020;4;2893.55;3;Nuevo
+Balvanera;2020;4;;3;Nuevo
+Belgrano;2020;4;3540.13;3;Nuevo
+Caballito;2020;4;3076.89;3;Nuevo
+Colegiales;2020;4;;3;Nuevo
+Flores;2020;4;2823.49;3;Nuevo
+Liniers;2020;4;2716.46;3;Nuevo
+Mataderos;2020;4;2590.25;3;Nuevo
+Núñez;2020;4;3510.58;3;Nuevo
+Palermo;2020;4;3732.94;3;Nuevo
+Recoleta;2020;4;3169.58;3;Nuevo
+Saavedra;2020;4;3080.59;3;Nuevo
+Villa Crespo;2020;4;2932.38;3;Nuevo
+Villa del Parque;2020;4;2754.97;3;Nuevo
+Villa Devoto;2020;4;2966.76;3;Nuevo
+Villa Luro;2020;4;2750.52;3;Nuevo
+Villa Urquiza;2020;4;3258.27;3;Nuevo
+Almagro;2021;1;2935.52;3;Nuevo
+Balvanera;2021;1;2595.98;3;Nuevo
+Belgrano;2021;1;3443.57;3;Nuevo
+Caballito;2021;1;3035.08;3;Nuevo
+Colegiales;2021;1;3230.62;3;Nuevo
+Flores;2021;1;2676.01;3;Nuevo
+Liniers;2021;1;2750.14;3;Nuevo
+Mataderos;2021;1;2609.42;3;Nuevo
+Núñez;2021;1;3272.39;3;Nuevo
+Palermo;2021;1;3662.69;3;Nuevo
+Recoleta;2021;1;3176.08;3;Nuevo
+Saavedra;2021;1;3064.43;3;Nuevo
+Villa Crespo;2021;1;2931.65;3;Nuevo
+Villa del Parque;2021;1;2708.2;3;Nuevo
+Villa Devoto;2021;1;3040.76;3;Nuevo
+Villa Luro;2021;1;2708.03;3;Nuevo
+Villa Urquiza;2021;1;3106.37;3;Nuevo
+Almagro;2021;2;2841.12;3;Nuevo
+Balvanera;2021;2;;3;Nuevo
+Belgrano;2021;2;3485.42;3;Nuevo
+Caballito;2021;2;3023.67;3;Nuevo
+Colegiales;2021;2;3179.45;3;Nuevo
+Flores;2021;2;2701.38;3;Nuevo
+Liniers;2021;2;2702.64;3;Nuevo
+Mataderos;2021;2;2657.59;3;Nuevo
+Núñez;2021;2;3313.85;3;Nuevo
+Palermo;2021;2;3737.7;3;Nuevo
+Recoleta;2021;2;3169.2;3;Nuevo
+Saavedra;2021;2;2960.92;3;Nuevo
+Villa Crespo;2021;2;2754.26;3;Nuevo
+Villa del Parque;2021;2;2672.48;3;Nuevo
+Villa Devoto;2021;2;2893.15;3;Nuevo
+Villa Luro;2021;2;2622.82;3;Nuevo
+Villa Urquiza;2021;2;3129.24;3;Nuevo
+Almagro;2021;3;2838.24;3;Nuevo
+Balvanera;2021;3;2478.02;3;Nuevo
+Belgrano;2021;3;3363.98;3;Nuevo
+Caballito;2021;3;2910.52;3;Nuevo
+Colegiales;2021;3;;3;Nuevo
+Flores;2021;3;2521.57;3;Nuevo
+Liniers;2021;3;2706.87;3;Nuevo
+Mataderos;2021;3;2585.51;3;Nuevo
+Núñez;2021;3;3234.09;3;Nuevo
+Palermo;2021;3;3612.3;3;Nuevo
+Recoleta;2021;3;2982;3;Nuevo
+Saavedra;2021;3;2897.76;3;Nuevo
+Villa Crespo;2021;3;2788.73;3;Nuevo
+Villa del Parque;2021;3;2593.86;3;Nuevo
+Villa Devoto;2021;3;2862.12;3;Nuevo
+Villa Luro;2021;3;;3;Nuevo
+Villa Urquiza;2021;3;3117.12;3;Nuevo
+Almagro;2021;4;2677.72;3;Nuevo
+Balvanera;2021;4;2452.27;3;Nuevo
+Belgrano;2021;4;3393.49;3;Nuevo
+Caballito;2021;4;2817.66;3;Nuevo
+Colegiales;2021;4;3202.17;3;Nuevo
+Flores;2021;4;2449.31;3;Nuevo
+Liniers;2021;4;2670.85;3;Nuevo
+Mataderos;2021;4;2538.75;3;Nuevo
+Núñez;2021;4;3302.68;3;Nuevo
+Palermo;2021;4;3707.5;3;Nuevo
+Recoleta;2021;4;3097.93;3;Nuevo
+Saavedra;2021;4;2781.37;3;Nuevo
+Villa Crespo;2021;4;2862.03;3;Nuevo
+Villa del Parque;2021;4;2604.01;3;Nuevo
+Villa Devoto;2021;4;;3;Nuevo
+Villa Luro;2021;4;;3;Nuevo
+Villa Urquiza;2021;4;3086.56;3;Nuevo
+Almagro;2022;1;2668.4;3;Nuevo
+Balvanera;2022;1;2502.56;3;Nuevo
+Belgrano;2022;1;3413.3;3;Nuevo
+Caballito;2022;1;2755.02;3;Nuevo
+Colegiales;2022;1;2997.07;3;Nuevo
+Flores;2022;1;2481;3;Nuevo
+Liniers;2022;1;2581.78;3;Nuevo
+Mataderos;2022;1;2531.31;3;Nuevo
+Núñez;2022;1;3199.68;3;Nuevo
+Palermo;2022;1;3663.85;3;Nuevo
+Recoleta;2022;1;2993.03;3;Nuevo
+Saavedra;2022;1;2704.37;3;Nuevo
+Villa Crespo;2022;1;2733.84;3;Nuevo
+Villa del Parque;2022;1;2576.43;3;Nuevo
+Villa Devoto;2022;1;2900.69;3;Nuevo
+Villa Luro;2022;1;2456.61;3;Nuevo
+Villa Urquiza;2022;1;2981.4;3;Nuevo
+Almagro;2022;2;2712.87;3;Nuevo
+Balvanera;2022;2;2438.69;3;Nuevo
+Belgrano;2022;2;3374.31;3;Nuevo
+Caballito;2022;2;2758.38;3;Nuevo
+Colegiales;2022;2;2930.19;3;Nuevo
+Flores;2022;2;2461.5;3;Nuevo
+Liniers;2022;2;2560.49;3;Nuevo
+Mataderos;2022;2;2422.7;3;Nuevo
+Núñez;2022;2;3279.61;3;Nuevo
+Palermo;2022;2;3511.61;3;Nuevo
+Recoleta;2022;2;2962.33;3;Nuevo
+Saavedra;2022;2;2602.31;3;Nuevo
+Villa Crespo;2022;2;;3;Nuevo
+Villa del Parque;2022;2;2449.67;3;Nuevo
+Villa Devoto;2022;2;2940.61;3;Nuevo
+Villa Luro;2022;2;;3;Nuevo
+Villa Urquiza;2022;2;2885.03;3;Nuevo
+Almagro;2022;3;2660.45;3;Nuevo
+Balvanera;2022;3;2454.49;3;Nuevo
+Belgrano;2022;3;3393.94;3;Nuevo
+Caballito;2022;3;2815.29;3;Nuevo
+Colegiales;2022;3;2940.56;3;Nuevo
+Flores;2022;3;2430.87;3;Nuevo
+Liniers;2022;3;2375.55;3;Nuevo
+Mataderos;2022;3;2312.74;3;Nuevo
+Núñez;2022;3;3125.8;3;Nuevo
+Palermo;2022;3;3543.43;3;Nuevo
+Recoleta;2022;3;2977.99;3;Nuevo
+Saavedra;2022;3;2607.74;3;Nuevo
+Villa Crespo;2022;3;2772.49;3;Nuevo
+Villa del Parque;2022;3;2432.58;3;Nuevo
+Villa Devoto;2022;3;2902.74;3;Nuevo
+Villa Luro;2022;3;2496.5;3;Nuevo
+Villa Urquiza;2022;3;2810.7;3;Nuevo
+Almagro;2022;4;2550.23;3;Nuevo
+Balvanera;2022;4;2383.83;3;Nuevo
+Belgrano;2022;4;3402.96;3;Nuevo
+Caballito;2022;4;2787.06;3;Nuevo
+Colegiales;2022;4;2902.88;3;Nuevo
+Flores;2022;4;2349.78;3;Nuevo
+Liniers;2022;4;2398.92;3;Nuevo
+Mataderos;2022;4;2369.56;3;Nuevo
+Núñez;2022;4;3129.2;3;Nuevo
+Palermo;2022;4;3451.11;3;Nuevo
+Recoleta;2022;4;2969.05;3;Nuevo
+Saavedra;2022;4;2629.66;3;Nuevo
+Villa Crespo;2022;4;2695.95;3;Nuevo
+Villa del Parque;2022;4;2384.63;3;Nuevo
+Villa Devoto;2022;4;2878.87;3;Nuevo
+Villa Luro;2022;4;2528.39;3;Nuevo
+Villa Urquiza;2022;4;2832.56;3;Nuevo
+Almagro;2023;1;2520.11;3;Nuevo
+Balvanera;2023;1;2387.01;3;Nuevo
+Belgrano;2023;1;3380.41;3;Nuevo
+Caballito;2023;1;2756.96;3;Nuevo
+Colegiales;2023;1;2910.01;3;Nuevo
+Flores;2023;1;2321.41;3;Nuevo
+Liniers;2023;1;2440.66;3;Nuevo
+Mataderos;2023;1;2367.5;3;Nuevo
+Núñez;2023;1;3064.61;3;Nuevo
+Palermo;2023;1;3574.93;3;Nuevo
+Recoleta;2023;1;2966.52;3;Nuevo
+Saavedra;2023;1;2530;3;Nuevo
+Villa Crespo;2023;1;2762.7;3;Nuevo
+Villa del Parque;2023;1;2430.28;3;Nuevo
+Villa Devoto;2023;1;2832.41;3;Nuevo
+Villa Luro;2023;1;2568.53;3;Nuevo
+Villa Urquiza;2023;1;2836.96;3;Nuevo
+Almagro;2023;2;2396.71;3;Nuevo
+Balvanera;2023;2;2414.72;3;Nuevo
+Belgrano;2023;2;3378.24;3;Nuevo
+Caballito;2023;2;2704.43;3;Nuevo
+Colegiales;2023;2;2726.46;3;Nuevo
+Flores;2023;2;2344.25;3;Nuevo
+Liniers;2023;2;2373.67;3;Nuevo
+Mataderos;2023;2;2352.11;3;Nuevo
+Núñez;2023;2;3086.61;3;Nuevo
+Palermo;2023;2;3586.8;3;Nuevo
+Recoleta;2023;2;3010.45;3;Nuevo
+Saavedra;2023;2;2473.3;3;Nuevo
+Villa Crespo;2023;2;2793.17;3;Nuevo
+Villa del Parque;2023;2;2338.33;3;Nuevo
+Villa Devoto;2023;2;2809.85;3;Nuevo
+Villa Luro;2023;2;2626.52;3;Nuevo
+Villa Urquiza;2023;2;2920.76;3;Nuevo
+Almagro;2023;3;2388.6;3;Nuevo
+Balvanera;2023;3;2249.58;3;Nuevo
+Belgrano;2023;3;3305.46;3;Nuevo
+Caballito;2023;3;2676.55;3;Nuevo
+Colegiales;2023;3;2850.4;3;Nuevo
+Flores;2023;3;2247.15;3;Nuevo
+Liniers;2023;3;2354.89;3;Nuevo
+Mataderos;2023;3;2249.77;3;Nuevo
+Núñez;2023;3;3108.49;3;Nuevo
+Palermo;2023;3;3423.83;3;Nuevo
+Recoleta;2023;3;2931.33;3;Nuevo
+Saavedra;2023;3;2490.34;3;Nuevo
+Villa Crespo;2023;3;2813.94;3;Nuevo
+Villa del Parque;2023;3;2316.68;3;Nuevo
+Villa Devoto;2023;3;2700.8;3;Nuevo
+Villa Luro;2023;3;2535.13;3;Nuevo
+Villa Urquiza;2023;3;2805.71;3;Nuevo
+Almagro;2023;4;2523.87;3;Nuevo
+Balvanera;2023;4;2360.5;3;Nuevo
+Belgrano;2023;4;3358.04;3;Nuevo
+Caballito;2023;4;2696.36;3;Nuevo
+Colegiales;2023;4;2880.19;3;Nuevo
+Flores;2023;4;2341.13;3;Nuevo
+Liniers;2023;4;2300.39;3;Nuevo
+Mataderos;2023;4;2252.63;3;Nuevo
+Núñez;2023;4;3125.55;3;Nuevo
+Palermo;2023;4;3727.84;3;Nuevo
+Recoleta;2023;4;3046.39;3;Nuevo
+Saavedra;2023;4;2509.54;3;Nuevo
+Villa Crespo;2023;4;2741.17;3;Nuevo
+Villa del Parque;2023;4;2367.15;3;Nuevo
+Villa Devoto;2023;4;2642.37;3;Nuevo
+Villa Luro;2023;4;2580.64;3;Nuevo
+Villa Urquiza;2023;4;2855.65;3;Nuevo
+Almagro;2024;1;2529.91;3;Nuevo
+Balvanera;2024;1;2427.29;3;Nuevo
+Belgrano;2024;1;3691.16;3;Nuevo
+Caballito;2024;1;2808.69;3;Nuevo
+Colegiales;2024;1;3248.47;3;Nuevo
+Flores;2024;1;2346.36;3;Nuevo
+Liniers;2024;1;2349.11;3;Nuevo
+Mataderos;2024;1;2203;3;Nuevo
+Núñez;2024;1;3149.34;3;Nuevo
+Palermo;2024;1;3758.33;3;Nuevo
+Recoleta;2024;1;3279.24;3;Nuevo
+Saavedra;2024;1;2619.03;3;Nuevo
+Villa Crespo;2024;1;2801.03;3;Nuevo
+Villa del Parque;2024;1;2388.4;3;Nuevo
+Villa Devoto;2024;1;2755.63;3;Nuevo
+Villa Luro;2024;1;2523.78;3;Nuevo
+Villa Urquiza;2024;1;2854.93;3;Nuevo
+Almagro;2024;2;2657.91;3;Nuevo
+Balvanera;2024;2;2376.23;3;Nuevo
+Belgrano;2024;2;3583.65;3;Nuevo
+Caballito;2024;2;2820.81;3;Nuevo
+Colegiales;2024;2;3243.69;3;Nuevo
+Flores;2024;2;2417.31;3;Nuevo
+Liniers;2024;2;2439.52;3;Nuevo
+Mataderos;2024;2;2222.35;3;Nuevo
+Núñez;2024;2;3174.93;3;Nuevo
+Palermo;2024;2;3939.03;3;Nuevo
+Recoleta;2024;2;3105.95;3;Nuevo
+Saavedra;2024;2;2630.19;3;Nuevo
+Villa Crespo;2024;2;2715.58;3;Nuevo
+Villa del Parque;2024;2;2446.82;3;Nuevo
+Villa Devoto;2024;2;2895.32;3;Nuevo
+Villa Luro;2024;2;2589.77;3;Nuevo
+Villa Urquiza;2024;2;2942.81;3;Nuevo
+Almagro;2024;3;2708.64;3;Nuevo
+Balvanera;2024;3;2448.74;3;Nuevo
+Belgrano;2024;3;3796.08;3;Nuevo
+Caballito;2024;3;2905.4;3;Nuevo
+Colegiales;2024;3;3220.64;3;Nuevo
+Flores;2024;3;2547.74;3;Nuevo
+Liniers;2024;3;2432.84;3;Nuevo
+Mataderos;2024;3;2227.9;3;Nuevo
+Núñez;2024;3;3279.78;3;Nuevo
+Palermo;2024;3;3991.86;3;Nuevo
+Recoleta;2024;3;3489.81;3;Nuevo
+Saavedra;2024;3;2785.35;3;Nuevo
+Villa Crespo;2024;3;2892.58;3;Nuevo
+Villa del Parque;2024;3;2502.46;3;Nuevo
+Villa Devoto;2024;3;3027.57;3;Nuevo
+Villa Luro;2024;3;2655.71;3;Nuevo
+Villa Urquiza;2024;3;3079.77;3;Nuevo
+Almagro;2024;4;2601.88;3;Nuevo
+Balvanera;2024;4;2565.05;3;Nuevo
+Belgrano;2024;4;3676.39;3;Nuevo
+Caballito;2024;4;3021.78;3;Nuevo
+Colegiales;2024;4;3351.78;3;Nuevo
+Flores;2024;4;2577.54;3;Nuevo
+Liniers;2024;4;2371.24;3;Nuevo
+Mataderos;2024;4;2336.96;3;Nuevo
+Núñez;2024;4;3374.65;3;Nuevo
+Palermo;2024;4;3915.74;3;Nuevo
+Recoleta;2024;4;3401.57;3;Nuevo
+Saavedra;2024;4;2788.64;3;Nuevo
+Villa Crespo;2024;4;2770.65;3;Nuevo
+Villa del Parque;2024;4;2519.4;3;Nuevo
+Villa Devoto;2024;4;3145.39;3;Nuevo
+Villa Luro;2024;4;2545.7;3;Nuevo
+Villa Urquiza;2024;4;3091.2;3;Nuevo
+Almagro;2025;1;2722.84;3;Nuevo
+Balvanera;2025;1;2532.48;3;Nuevo
+Belgrano;2025;1;3573.85;3;Nuevo
+Caballito;2025;1;3034.93;3;Nuevo
+Colegiales;2025;1;3335;3;Nuevo
+Flores;2025;1;2653.4;3;Nuevo
+Liniers;2025;1;2468.68;3;Nuevo
+Mataderos;2025;1;2285.38;3;Nuevo
+Núñez;2025;1;3578.16;3;Nuevo
+Palermo;2025;1;3851.46;3;Nuevo
+Recoleta;2025;1;3402.99;3;Nuevo
+Saavedra;2025;1;2933.04;3;Nuevo
+Villa Crespo;2025;1;2905.9;3;Nuevo
+Villa del Parque;2025;1;2560.24;3;Nuevo
+Villa Devoto;2025;1;3216.09;3;Nuevo
+Villa Luro;2025;1;2592.95;3;Nuevo
+Villa Urquiza;2025;1;3138.3;3;Nuevo
+Almagro;2025;2;2765.34;3;Nuevo
+Balvanera;2025;2;2609.89;3;Nuevo
+Belgrano;2025;2;3749.84;3;Nuevo
+Caballito;2025;2;3061.92;3;Nuevo
+Colegiales;2025;2;3501.22;3;Nuevo
+Flores;2025;2;2693.55;3;Nuevo
+Liniers;2025;2;2534.83;3;Nuevo
+Mataderos;2025;2;2421.19;3;Nuevo
+Núñez;2025;2;3705.15;3;Nuevo
+Palermo;2025;2;4124.23;3;Nuevo
+Recoleta;2025;2;3263.78;3;Nuevo
+Saavedra;2025;2;2943.3;3;Nuevo
+Villa Crespo;2025;2;2991.55;3;Nuevo
+Villa del Parque;2025;2;2960.58;3;Nuevo
+Villa Devoto;2025;2;3450.36;3;Nuevo
+Villa Luro;2025;2;2590.07;3;Nuevo
+Villa Urquiza;2025;2;3273.95;3;Nuevo
+Almagro;2025;3;2811.76;3;Nuevo
+Balvanera;2025;3;2792.72;3;Nuevo
+Belgrano;2025;3;3736.44;3;Nuevo
+Caballito;2025;3;3198.98;3;Nuevo
+Colegiales;2025;3;3458.25;3;Nuevo
+Flores;2025;3;2767.6;3;Nuevo
+Liniers;2025;3;2593.86;3;Nuevo
+Mataderos;2025;3;2534.7;3;Nuevo
+Núñez;2025;3;3959.28;3;Nuevo
+Palermo;2025;3;4204.88;3;Nuevo
+Recoleta;2025;3;3576.32;3;Nuevo
+Saavedra;2025;3;3138.71;3;Nuevo
+Villa Crespo;2025;3;3094.37;3;Nuevo
+Villa del Parque;2025;3;2725.59;3;Nuevo
+Villa Devoto;2025;3;3435.67;3;Nuevo
+Villa Luro;2025;3;2658.21;3;Nuevo
+Villa Urquiza;2025;3;3175.7;3;Nuevo
