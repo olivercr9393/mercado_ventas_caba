@@ -57,15 +57,15 @@ Nota: Los datos representan precios promedio de publicación por m2 y no precios
 4.1.	Limpieza de datos
 
 -	Se eliminaron filas descriptivas y encabezados no estructurados en Excel ya que no aportaban valor analítico a la posterior limpieza.
--	
+  
 -	Se eliminaron las filas de barrios donde había más de un 40% de datos faltantes, esto con el objetivo de reducir sesgos derivados de series temporales incompletas.
--	
+  
 -	Cambio de orientación, de filas a columnas. El dataset original tiene los datos para mostrarlo en un formato estadístico, pero poco práctico para la limpieza y posterior análisis, por lo que se procedió en Power Query por medio de un pivot a cambiar la ubicación de los datos sin alterar su contenido ni agregar ni modificar dígitos.
--	
+  
 -	Los seis datasets sobre barrios fueron unificados en una tabla analítica con nombre ‘compra_barrios’. Se agregaron ambientes, trimestres y estado (nuevo o usado) como columnas para una mejor comprensión en el análisis y simplificar las consultas en SQL.
--	
+  
 -	Validación de datos faltantes y duplicados, no se encontraron datos duplicados, pero se sustituyeron los datos faltantes ‘///’ por un ‘NULL’ para su correcta interpretación en SQL y Power BI.
--	
+  
 4.2.	Modelado de datos.
 
 Los datos fueron modelados en una estructura tabular normalizada por medio de Power Query, para que cada fila representara una observación única, de esta forma el análisis es más comprensible en cada consulta de MySQL.
