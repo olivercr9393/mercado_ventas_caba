@@ -95,15 +95,16 @@ En esta etapa se exploraron patrones generales, diferencias territoriales y comp
 5.1. ¿Cómo evolucionó el precio del m2 en CABA desde el 2018-2025 según su cantidad de ambientes y estado del inmueble?
 Para responder a esta pregunta, primero tomamos en cuenta la evolución del precio por m2, es decir hacemos un promedio de los precios por año, con esa variable tenemos que:
 
-Año	Precio promedio
-2018	2.907
-2019	2.893
-2020	2.722
-2021	2.481
-2022	2.289
-2023	2.228
-2024	2.337
-2025	2.465
+| Año  | Precio promedio (USD/m2) |
+|------|--------------------------|
+| 2018 | 2.907                    |
+| 2019 | 2.893                    |
+| 2020 | 2.722                    |
+| 2021 | 2.481                    |
+| 2022 | 2.289                    |
+| 2023 | 2.228                    |
+| 2024 | 2.337                    |
+| 2025 | 2.465                    |
 
 Se puede apreciar una caída acumulada entre el 2018 y 2023, reflejando un ajuste real del mercado. A partir del 2024 al 2025 muestra señales de recuperación con una tendencia alcista.
 
@@ -111,115 +112,115 @@ Nota: esta respuesta puede contener mucha información general al no segmentar l
 
 Luego, para entender mejor esta tendencia debemos hacer un promedio del precio por m2 pero segmentando la consulta por el estado del inmueble:
 
-Año	Estado	Precio promedio
-
-2018	Nuevo	3271
-	Usado	2738
-2019	Nuevo	3249
-	Usado	2727
-2020	Nuevo	3082
-	Usado	2558
-2021	Nuevo	2850
-	Usado	2316
-2022	Nuevo	2665
-	Usado	2115
-2023	Nuevo	2585
-	Usado	2060
-2024	Nuevo	2766
-	Usado	2136
-2025	Nuevo	2978
-	Usado	2233
+| Año  | Estado | Precio promedio (USD/m2) |
+|------|--------|--------------------------|
+| 2018 | Nuevo  | 3.271                    |
+| 2018 | Usado  | 2.738                    |
+| 2019 | Nuevo  | 3.249                    |
+| 2019 | Usado  | 2.727                    |
+| 2020 | Nuevo  | 3.082                    |
+| 2020 | Usado  | 2.558                    |
+| 2021 | Nuevo  | 2.850                    |
+| 2021 | Usado  | 2.316                    |
+| 2022 | Nuevo  | 2.665                    |
+| 2022 | Usado  | 2.115                    |
+| 2023 | Nuevo  | 2.585                    |
+| 2023 | Usado  | 2.060                    |
+| 2024 | Nuevo  | 2.766                    |
+| 2024 | Usado  | 2.136                    |
+| 2025 | Nuevo  | 2.978                    |
+| 2025 | Usado  | 2.233                    |
   
 Mientras que en 2018 un departamento nuevo costaba en promedio 3271usd por m2 en el 2025 costaba 2978usd por m2. Aunque a simple vista veamos que se haya reducido, la tendencia actual va en crecimiento debido a los datos a partir del 2024.
 
 Ahora podemos hacer un promedio del precio por m2 pero en esta ocasión segmentando la consulta por la cantidad de ambientes del inmueble (1, 2 y 3 ambientes), encontramos que:
 
---
 
-Año	Ambientes	Precio promedio
-2018	1	3079
-	2	2910
-	3	2802
-2019	1	3049
-	2	2899
-	3	2780
-2020	1	2819
-	2	2727
-	3	2636
-2021	1	2533
-	2	2489
-	3	2423
-2022	1	2338
-	2	2290
-	3	2243
-2023	1	2267
-	2	2236
-	3	2186
-2024	1	2404
-	2	2358
-	3	2254
-2025	1	2534
-	2	2490
-	3	2377
---
+| Año  | Ambientes | Precio promedio (USD/m2) |
+|------|-----------|--------------------------|
+| 2018 | 1         | 3.079                    |
+| 2018 | 2         | 2.910                    |
+| 2018 | 3         | 2.802                    |
+| 2019 | 1         | 3.049                    |
+| 2019 | 2         | 2.899                    |
+| 2019 | 3         | 2.780                    |
+| 2020 | 1         | 2.819                    |
+| 2020 | 2         | 2.727                    |
+| 2020 | 3         | 2.636                    |
+| 2021 | 1         | 2.533                    |
+| 2021 | 2         | 2.489                    |
+| 2021 | 3         | 2.423                    |
+| 2022 | 1         | 2.338                    |
+| 2022 | 2         | 2.290                    |
+| 2022 | 3         | 2.243                    |
+| 2023 | 1         | 2.267                    |
+| 2023 | 2         | 2.236                    |
+| 2023 | 3         | 2.186                    |
+| 2024 | 1         | 2.404                    |
+| 2024 | 2         | 2.358                    |
+| 2024 | 3         | 2.254                    |
+| 2025 | 1         | 2.534                    |
+| 2025 | 2         | 2.490                    |
+| 2025 | 3         | 2.377                    |
+
+
 
 En esta consulta podemos observar el decrecimiento del precio en los periodos 2018-2023 y luego un aumento desde el 2024-2025.
 
 Tras los resultados de las 2 consultas anteriores, podemos unificar ambas para poder apreciar aún más la tendencia de la manera más segmentada posible, para eso necesitamos calcular los precios promedio por periodo entre el 2018 y 2025, segmentando la consulta por cantidad de ambientes y estado del inmueble, de esta forma podemos obtener un panorama más claro y detallado sobre las diferencias, bajo ese concepto tenemos:
 
---
 
-Año	Ambientes	Estado	Precio promedio
-2018	1	Nuevo	3157
-		Usado	3018
-	2	Nuevo	3202
-		Usado	2762
-	3	Nuevo	3507
-		Usado	2595
-2019	1	Nuevo	3182
-		Usado	2970
-	2	Nuevo	3194
-		Usado	2752
-	3	Nuevo	3386
-		Usado	2564
-2020	1	Nuevo	3055
-		Usado	2700
-	2	Nuevo	3048
-		Usado	2569
-	3	Nuevo	3157
-		Usado	2440
-2021	1	Nuevo	2800
-		Usado	2412
-	2	Nuevo	2810
-		Usado	2331
-	3	Nuevo	2951
-		Usado	2214
-2022	1	Nuevo	2599
-		Usado	2213
-	2	Nuevo	2619
-		Usado	2127
-	3	Nuevo	2790
-		Usado	2018
-2023	1	Nuevo	2503
-		Usado	2156
-	2	Nuevo	2545
-		Usado	2074
-	3	Nuevo	2717
-		Usado	1965
-2024	1	Nuevo	2687
-		Usado	2273
-	2	Nuevo	2732
-		Usado	2164
-	3	Nuevo	2882
-		Usado	1991
-2025	1	Nuevo	2883
-		Usado	2381
-	2	Nuevo	2962
-		Usado	2258
-	3	Nuevo	3084
-		Usado	2077
+| Año  | Ambientes | Estado | Precio promedio (USD/m2) |
+|------|-----------|--------|--------------------------|
+| 2018 | 1         | Nuevo  | 3.157                    |
+| 2018 | 1         | Usado  | 3.018                    |
+| 2018 | 2         | Nuevo  | 3.202                    |
+| 2018 | 2         | Usado  | 2.762                    |
+| 2018 | 3         | Nuevo  | 3.507                    |
+| 2018 | 3         | Usado  | 2.595                    |
+| 2019 | 1         | Nuevo  | 3.182                    |
+| 2019 | 1         | Usado  | 2.970                    |
+| 2019 | 2         | Nuevo  | 3.194                    |
+| 2019 | 2         | Usado  | 2.752                    |
+| 2019 | 3         | Nuevo  | 3.386                    |
+| 2019 | 3         | Usado  | 2.564                    |
+| 2020 | 1         | Nuevo  | 3.055                    |
+| 2020 | 1         | Usado  | 2.700                    |
+| 2020 | 2         | Nuevo  | 3.048                    |
+| 2020 | 2         | Usado  | 2.569                    |
+| 2020 | 3         | Nuevo  | 3.157                    |
+| 2020 | 3         | Usado  | 2.440                    |
+| 2021 | 1         | Nuevo  | 2.800                    |
+| 2021 | 1         | Usado  | 2.412                    |
+| 2021 | 2         | Nuevo  | 2.810                    |
+| 2021 | 2         | Usado  | 2.331                    |
+| 2021 | 3         | Nuevo  | 2.951                    |
+| 2021 | 3         | Usado  | 2.214                    |
+| 2022 | 1         | Nuevo  | 2.599                    |
+| 2022 | 1         | Usado  | 2.213                    |
+| 2022 | 2         | Nuevo  | 2.619                    |
+| 2022 | 2         | Usado  | 2.127                    |
+| 2022 | 3         | Nuevo  | 2.790                    |
+| 2022 | 3         | Usado  | 2.018                    |
+| 2023 | 1         | Nuevo  | 2.503                    |
+| 2023 | 1         | Usado  | 2.156                    |
+| 2023 | 2         | Nuevo  | 2.545                    |
+| 2023 | 2         | Usado  | 2.074                    |
+| 2023 | 3         | Nuevo  | 2.717                    |
+| 2023 | 3         | Usado  | 1.965                    |
+| 2024 | 1         | Nuevo  | 2.687                    |
+| 2024 | 1         | Usado  | 2.273                    |
+| 2024 | 2         | Nuevo  | 2.732                    |
+| 2024 | 2         | Usado  | 2.164                    |
+| 2024 | 3         | Nuevo  | 2.882                    |
+| 2024 | 3         | Usado  | 1.991                    |
+| 2025 | 1         | Nuevo  | 2.883                    |
+| 2025 | 1         | Usado  | 2.381                    |
+| 2025 | 2         | Nuevo  | 2.962                    |
+| 2025 | 2         | Usado  | 2.258                    |
+| 2025 | 3         | Nuevo  | 3.084                    |
+| 2025 | 3         | Usado  | 2.077                    |
 
---
 
 Al igual que en las consultas anteriores, desde el 2018 al 2023 hubo una caída en el valor del m2, pero luego a partir del 2024 los precios comienzan a recuperarse.
 
@@ -499,10 +500,11 @@ Esta variación es general, no toma en cuenta ambientes ni estado del inmueble. 
 
 Podemos encontrar que:
 
-Ambientes	precio_nuevo	precio_usado	diferencia_usd	diferencia_pct
-1	2.835	2.450	385	15.71
-2	2.869	2.365	504	21.31
-3	3.026	2.231	795	35.63
+| Ambientes | Precio nuevo (USD/m2) | Precio usado (USD/m2) | Diferencia (USD) | Diferencia (%) |
+|-----------|-----------------------|-----------------------|------------------|----------------|
+| 1         | 2.835                 | 2.450                 | 385              | 15,71%         |
+| 2         | 2.869                 | 2.365                 | 504              | 21,31%         |
+| 3         | 3.026                 | 2.231                 | 795              | 35,63%         |
 
 Para cuantificar esta diferencia entre nuevos y usados, se calcularon precios promedios históricos del m2 entre 2018 y 2025, segmentados por cantidad de ambientes.
 
@@ -510,10 +512,11 @@ Y podemos agregar una pregunta adicional para conocer el estado actual del merca
 
 A partir de ahí encontramos:
 
-Ambientes	precio_nuevo_actual	precio_usado_actual	diferencia_usd	diferencia_pct
-1	2.901	2.390	511	21.38
-2	3.005	2.261	744	32.91
-3	3.168	2.081	1087	52.23
+| Ambientes | Precio nuevo (USD/m2) | Precio usado (USD/m2) | Diferencia (USD) | Diferencia (%) |
+|-----------|-----------------------|-----------------------|------------------|----------------|
+| 1         | 2.901                 | 2.390                 | 511              | 21,38%         |
+| 2         | 3.005                 | 2.261                 | 744              | 32,91%         |
+| 3         | 3.168                 | 2.081                 | 1.087            | 52,23%         |
 
 Para analizar las diferencias actuales de precio por m2, se calcularon precios promedio del año 2025, segmentando por el estado del inmueble según la cantidad de ambientes. 
 
@@ -617,17 +620,19 @@ Nota: ‘Hoy en día’ representa al último trimestre disponible del año 2025
 
 Para responder a esta pregunta tomamos en cuenta el promedio histórico por cada tipo de ambiente, esto permite identificar los movimientos de rotación promedio en el mercado.
 
-Ambientes	dias_promedio_publicado
-1 ambiente	311
-2 ambientes	312
-3 ambientes	306
+| Ambientes   | Días promedio publicado |
+|-------------|-------------------------|
+| 1 ambiente  | 311                     |
+| 2 ambientes | 312                     |
+| 3 ambientes | 306                     |
 
 Pero si queremos analizar la situación actual del mercado, debemos calcular el tiempo promedio de publicación de los departamentos por tipo de ambiente, considerando únicamente el último año disponible en la base de datos.
 
-Ambientes	dias_promedio_publicado
-1 ambiente	297
-2 ambientes	323
-3 ambientes	325
+| Ambientes   | Días promedio publicado |
+|-------------|-------------------------|
+| 1 ambiente  | 297                     |
+| 2 ambientes | 323                     |
+| 3 ambientes | 325                     |
 
 En promedio los departamentos tardan alrededor de 300 días en ser concretados o no.
 
